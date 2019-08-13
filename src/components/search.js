@@ -1,4 +1,4 @@
-export const renderSeasch = () => {
+export const renderSearch = () => {
   return `
         <section class="main__search search container">
         <input
