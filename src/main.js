@@ -1,7 +1,7 @@
-import {renderMenu} from './menu.js';
-import {renderSearch} from './search.js';
-import {renderFilters} from './filters.js';
-import {renderContent} from './content.js';
+import {renderMenu} from './components/menu.js';
+import {renderSearch} from './components/search.js';
+import {renderFilters} from './components/filters.js';
+import {renderContent} from './components/content.js';
 
 
 const menuContainer = document.querySelector('.main__control');
